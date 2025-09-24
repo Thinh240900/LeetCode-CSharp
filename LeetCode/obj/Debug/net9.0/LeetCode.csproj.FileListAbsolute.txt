@@ -12,3 +12,4 @@
 /Users/banhphucthinh/RiderProjects/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.pdb
 /Users/banhphucthinh/RiderProjects/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.genruntimeconfig.cache
 /Users/banhphucthinh/RiderProjects/LeetCode/LeetCode/obj/Debug/net9.0/ref/LeetCode.dll
+/Users/banhphucthinh/RiderProjects/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.sourcelink.json
