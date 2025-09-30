@@ -8,8 +8,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="1001-2000\" />
-      <Folder Include="2001-3000\" />
       <Folder Include="3001-4000\" />
       <Folder Include="4001-5000\" />
     </ItemGroup>
