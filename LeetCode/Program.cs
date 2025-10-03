@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine(new LeetCode._3100_1.Solution().MaxBottlesDrunk(13, 6));
-Console.WriteLine(new LeetCode._3100_1.Solution().MaxBottlesDrunk(10, 3));  
+Console.WriteLine(new LeetCode._407_2.Solution().TrapRainWater([[1,4,3,1,3,2],[3,2,1,3,2,4],[2,3,3,2,3,1]]
+)); // 4
+Console.WriteLine(new LeetCode._407_2.Solution().TrapRainWater([[3,3,3,3,3],[3,2,2,2,3],[3,2,1,2,3],[3,2,2,2,3],[3,3,3,3,3]]
+)); // 10  
 
 
